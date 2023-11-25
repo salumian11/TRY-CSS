@@ -1,0 +1,79 @@
+*{padding: 0px; margin: 0px;
+
+}
+
+.header{
+    height: 100px;width: auto;
+    font-style: italic;
+    background-color: red;
+    padding-left: 1%;
+}
+.name{
+    position: absolute;top: 4%;left: 40%;
+
+}
+.search{
+      position: absolute;top: 8%;left: 75%;
+
+}
+.banner{
+    height: 350px;width: auto;
+    background-color: brown;
+}
+.Menu{ 
+    height: 60px;width: auto;
+    background-color:pink;
+    
+}
+
+    .Menu ul a li{
+
+    display: inline-block;  
+    line-height: 50px;width: 250px;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    background-color:black;
+    padding-left: 15px;
+    border-radius: 30%;
+
+    }
+.Menu ul a li:hover{ 
+
+    background-color: blue;
+}    
+.Left{
+    height: 600px;width: 15%;
+    background-color:yellow;
+    float: left;
+}
+.product{
+    height: 600px;width: 70%;
+    background-color: green;
+    float: left;
+}
+.Right{
+    height: 600px;width: 15%;
+    background-color: pink;
+    float: left;
+}
+.Advertisment{
+    height: 200px;width: auto;
+    background-color:gray;
+    clear: both;
+}
+.footer{
+    height: 400px;width: 35%;
+    background-color: black;
+    float: left;
+}
+.footer1{
+    height: 400px;width: 30%;
+    background-color: gold;
+    float: left;
+}
+.footer2{
+    height: 400px;width: 35%;
+    background-color: purple;
+    float: left;
+}

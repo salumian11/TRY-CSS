@@ -1,0 +1,57 @@
+.header{
+    height: 100px;width: auto;
+    font-style: italic;
+    background-color: red;
+    padding-left: 1%;
+}
+.name{
+    position: absolute;top: 4%;left: 40%;
+
+}
+.search{
+      position: absolute;top: 8%;left: 75%;
+
+}
+.banner{
+    height: 350px;width: auto;
+    background-color: brown;
+}
+.Menu{
+    height: 40px;width: auto;
+    background-color:blue;
+}
+.Left{
+    height: 600px;width: 200px;
+    background-color:yellow;
+    float: left;
+}
+.product{
+    height: 600px;width: 933px;
+    background-color: green;
+    float: left;
+}
+.Right{
+    height: 600px;width: 200px;
+    background-color: pink;
+    float: left;
+}
+.Advertisment{
+    height: 200px;width: auto;
+    background-color:gray;
+    clear: both;
+}
+.footer{
+    height: 400px;width: 450px;
+    background-color: black;
+    float: left;
+}
+.footer1{
+    height: 400px;width: 450px;
+    background-color: gold;
+    float: left;
+}
+.footer2{
+    height: 400px;width: 430px;
+    background-color: purple;
+    float: left;
+}

@@ -1,0 +1,117 @@
+*{padding: 0px; margin: 0px;
+
+}
+
+.header{
+    height: 100px;width: auto;
+    padding-left: 1%;
+}
+.name{
+    position: absolute;top: 5%;left: 35%;
+    font-style: italic;
+    font-family:sans-serif;
+
+}
+.search{
+      position: absolute;top: 8%;left: 80%;
+      border-radius: 8px;
+
+}
+
+.Menu{ 
+    height: 60px;width: auto;
+       
+}
+
+    .Menu ul a li{
+
+    display: inline-block;  
+    line-height: 50px;width: 225px;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    background-color:bisque;
+    padding-left: 41.5px;
+
+
+    }
+.Menu ul a li:hover{ 
+
+    background-color: blue;
+}    
+.Left{
+    height: 600px;width: 15%;
+    background-color:yellow;
+    float: left;
+}
+.Left1 a span{
+    border-radius: 10px;
+    
+}
+.heading{
+    color: red;
+    display: inline-block;
+}
+
+.product{
+    height: 600px;width: 70%;
+    float: left;
+}
+.imga{
+    float: left;
+    padding-left: 5%;
+}
+.img1{
+    list-style: none;
+    text-align: center;
+}
+.imga2{
+    padding-left: 65%;
+    
+}
+.img2{
+    list-style: none;
+    text-align: center;
+}
+.imga3{
+    float: left;
+    padding-left: 5%;
+}
+.img3{
+    list-style: none;
+    text-align: center;
+}
+.imga4{
+    padding-left: 65%;
+    
+}
+.img4{
+    list-style: none;
+    text-align: center;
+}
+
+.Right{
+    height: 600px;width: 15%;
+    background-color: pink;
+    float: left;
+}
+.Advertisment{
+    height: 200px;width: auto;
+    background-color:gray;
+    clear: both;
+}
+.footer{
+    height: 400px;width: 35%;
+    background-color: black;
+    float: left;
+}
+.footer1{
+    height: 400px;width: 30%;
+    background-color: gold;
+    float: left;
+}
+.footer2{
+    height: 400px;width: 35%;
+    background-color: purple;
+    float: left;
+}
